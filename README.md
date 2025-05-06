@@ -21,7 +21,7 @@
 
 ---
 
-## 🔢 FPU Architecture
+## FPU Architecture
 
 - **Instruction Latencies**:
   - `fadd`, `fsub`: 3 cycles
